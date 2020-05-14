@@ -1,0 +1,29 @@
+.content{
+  margin-top: 20px;
+  margin-left: 60px;
+  width: 70%;
+  height: 100%;
+
+}
+
+.chat{
+  margin-top: 20px;
+  
+  height: 100%;
+}
+
+.container{
+  overflow:hidden;
+  height: 70vh;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.vertical-line{
+  width: .3px;
+  height: 50vh;
+  margin-top: 170px;
+  background-color: white;
+  border-radius: 50px;
+  opacity: 50%;
+}

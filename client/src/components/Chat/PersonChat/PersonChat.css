@@ -1,0 +1,32 @@
+.person{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: ease-in-out 0.05s;
+}
+
+.picture{
+    background-color: #FFF;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.name{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.isOnline{
+    background-color: #25B856;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.person:hover{
+    background-color: #636363;
+}

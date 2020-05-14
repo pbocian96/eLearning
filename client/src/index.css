@@ -1,0 +1,22 @@
+:root{
+  --main-bg-color: #272727;
+  --secondary: #3F7EBC;
+  --accent: #25B856;
+}
+
+body {
+  overflow: hidden;
+  color: white;;
+  background-color: var(--main-bg-color);
+  margin: 0;
+  font-family: CenturyGothic,
+    sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
